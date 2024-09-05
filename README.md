@@ -8,5 +8,6 @@ General Framework of Algorithm
 
 Organization of Programming
 
-<img width="726" alt="image" src="https://github.com/user-attachments/assets/b3e08543-713c-400b-ad83-c4048da93d82">
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/7d8a7046-7465-4ee5-972c-b3d71e2f447a">
+
 
