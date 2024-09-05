@@ -12,6 +12,6 @@
 
 --
 
-- **Optimal Result Example**
+- **Example: Optimal Result**
 
 ![deformation_animation](https://github.com/user-attachments/assets/0c0d952f-5ba5-49f3-ad9c-18f658c9d143)
