@@ -1,6 +1,6 @@
 # Robust-Sphere-Cavity-Shape-Optimization
 
-# General Framework of Algorithm 
+- General Framework of Algorithm 
 
 <img width="797" alt="image" src="https://github.com/user-attachments/assets/dc423e39-d4cd-437d-8cb8-1d5f63d9e765">
 
