@@ -14,5 +14,4 @@
 
 - **Example: Optimal Result**
 
-![deformation_animation_resized](https://github.com/user-attachments/assets/fab44c24-9617-4b1b-bf00-35e65dee3fd3)
-
+![deformation_animation](https://github.com/user-attachments/assets/591a8489-6dfe-443d-bf24-11374c85f7ce)
